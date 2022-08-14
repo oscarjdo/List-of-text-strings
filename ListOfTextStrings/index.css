@@ -1,0 +1,32 @@
+* {
+    padding: 0%;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #eee;
+}
+
+.img-container {
+    display: flex
+}
+
+.container {
+    background: #fff;
+    margin: 0 1.5em;
+    flex-grow: 1;
+    height: 20em;
+    border: 1px solid #222;
+}
+
+.array {
+    margin: 1em;
+    text-align: center;
+}
+
+img {
+    flex-grow: 1;
+    border: 1px solid #222;
+    margin: 1.5em;
+}
